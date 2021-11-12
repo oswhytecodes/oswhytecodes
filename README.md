@@ -9,8 +9,11 @@
 - 📫 How to reach me: ... beacons.ai/oswhyteknits
  
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... 1. I'm a good dancer. 2. I went to a boarding school between ages 12-17 3. I love french fries and pizza. 
-- <!--
+- ⚡ Fun fact: ... 
+      1. I'm a good dancer. 
+      2. I went to a boarding school between ages 12-17 
+      3. I love french fries and pizza. 
+<!--
 **oswhyteknits/oswhyteknits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 

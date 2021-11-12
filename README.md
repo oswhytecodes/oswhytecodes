@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+![IMG_3678](https://user-images.githubusercontent.com/92553207/141525568-173f4d56-2a4c-42bc-a668-4c5edcd9833b.png)
 <!--
 **oswhyteknits/oswhyteknits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

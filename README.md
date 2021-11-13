@@ -1,5 +1,4 @@
- 👋 ![IMG_3678](https://user-images.githubusercontent.com/92553207/141525568-173f4d56-2a4c-42bc-a668-4c5edcd9833b.png)
-
+![IMG_3688](https://user-images.githubusercontent.com/92553207/141614931-56457996-c8c2-4be3-9647-f9abe79408e2.jpeg) 
 
 - 🔭 I’m currently working on ... <b>Creating a personal webpage for "A Black Woman Made Me"</b>
 - 🌱 I’m currently learning ... <b>JavaScript.</b>
@@ -14,9 +13,3 @@
       <b>1. I'm a good dancer. </b> </br>
       <b>2. I went to a boarding school between ages 12-17 </b><br>
       <b>3. I love french fries and pizza. </b>
-<!--
-**oswhyteknits/oswhyteknits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
--->

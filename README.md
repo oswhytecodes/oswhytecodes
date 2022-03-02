@@ -1,6 +1,6 @@
 ![IMG_3688](https://user-images.githubusercontent.com/92553207/141614931-56457996-c8c2-4be3-9647-f9abe79408e2.jpeg) 
 
-- 🔭 I’m currently working on ... <b>Creating a personal webpage for "A Black Woman Made Me"</b>
+- 🔭 I’m currently working on ... <b>Improving my JavaScript skills, building projects, intro to React </b>
 - 🌱 I’m currently learning ... <b>JavaScript.</b>
 - 👯 I’m looking to collaborate on ... <b> Any project building a website, to gain some experience and start networking.</b>
 - 🤔 I’m looking for help with ... <b>All things JavaScript. Any tips would be appreciated. </b>

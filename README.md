@@ -16,7 +16,8 @@ Currently learning Front End Engineering via CodeCademy. My dream tech job is on
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
-<br /><br />
+<br />
+<b>Socials</b>
 <p align="left">
 
   <a href="https://www.github.com/oswhyteknits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/orincywhyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Oswhyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a><br /><br />
@@ -24,6 +25,9 @@ Currently learning Front End Engineering via CodeCademy. My dream tech job is on
 <div width="100%" align="center"><a href="https://github.com/oswhyteknits/orincywhyte_frontendengineer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oswhyteknits&repo=orincywhyte_frontendengineer&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br />
 <br /><br />
 <br />
+
+<br />
+<b> Support</b>
 <a href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 

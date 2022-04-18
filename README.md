@@ -27,8 +27,9 @@ Currently learning Front End Engineering via CodeCademy. My dream tech job is on
 <br />
 
 <br />
-<b> Support</b>
-<a href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<b> Support</b><p align="left">
+<br />
+<a align="left" href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 - 🔭 I’m currently working on ... <b>Improving my JavaScript skills, building projects, intro to React </b>

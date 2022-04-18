@@ -25,7 +25,7 @@ Currently learning Front End Engineering via CodeCademy. My dream tech job is on
 <div width="100%" align="center"><a href="https://github.com/oswhyteknits/orincywhyte_frontendengineer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oswhyteknits&repo=orincywhyte_frontendengineer&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br />
 <br /><br />
 <br />
-
+<br />
 <b> Support</b><p align="left">
 <br />
 <a align="left" href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

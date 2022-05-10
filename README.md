@@ -1,5 +1,5 @@
+![IMG_5125](https://user-images.githubusercontent.com/92553207/167725606-33f5bbf7-d03f-4271-ab76-eacb505fcbe5.jpeg)
 
-![IMG_5125](https://user-images.githubusercontent.com/92553207/167725358-3785f3d8-7e4c-4773-aa7f-9b637773232b.jpeg)
 
 Hi 👋 My name is Orincy Whyte
 =============================

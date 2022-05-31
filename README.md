@@ -4,10 +4,11 @@
 Hi 👋 My name is Orincy Whyte
 =============================
 
-Graphic Design + Front End Dev👩🏾‍💻
+Frontend Dev + Graphic Designer 👩🏾‍💻
 -------------------------------------
 
-Currently learning Front End Engineering via CodeCademy. My dream tech job is one where I can focus on code+design in ReactJs.
+Currently learning Front End Engineering via CodeCademy (68%). My dream tech job is one where I can focus on code+design in ReactJs and Tailwind.
+I am obsessed with building things, which is why I thoroughly enjoy programming and design
 
 * 🌍  I'm based in Fl + NY
 * ✉️  You can contact me at [orincywhyte@gmail.com](mailto:orincywhyte@gmail.com)
@@ -33,11 +34,11 @@ Currently learning Front End Engineering via CodeCademy. My dream tech job is on
 <a align="left" href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-- 🔭 I’m currently working on ... <b>Improving my JavaScript skills, building projects, intro to React </b>
-- 🌱 I’m currently learning ... <b>JavaScript.</b>
+- 🔭 I’m currently working on ... <b>Improving my JavaScript skills, building projects, getting better at React </b>
+- 🌱 I’m currently learning ... <b>React/Redux</b>
 - 👯 I’m looking to collaborate on ... <b> Any project building a website, to gain some experience and start networking.</b>
 - 🤔 I’m looking for help with ... <b>All things JavaScript. Any tips would be appreciated. </b>
-- 💬 Ask me about ... <b>My tiny business where I freelance as a Graphic Designer and sell handmade products via Etsy.</b>
+- 💬 Ask me about ... <b>My tiny business where I freelance as a Graphic Designer and sell handmade products via Etsy [@orincywhytedesigns](https://www.instagram.com/orincywhytedesigns/) </b>
 
  
 - 😄 Pronouns: ... <b>She/Her</b>

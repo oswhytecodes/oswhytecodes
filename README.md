@@ -8,7 +8,9 @@ Frontend Dev + Graphic Designer 👩🏾‍💻
 -------------------------------------
 
 Currently learning Front End Engineering via CodeCademy (71%). 
+
 My dream tech job is one where I can focus on code+design in ReactJs and Tailwind.
+
 I am obsessed with building things, which is why I enjoy programming and design
 
 * 🌍  I'm based in Fl + NY

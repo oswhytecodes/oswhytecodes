@@ -41,7 +41,7 @@ I am obsessed with building things, which is why I enjoy programming and design
 - 🌱 I’m currently learning ... <b>React/Redux</b>
 - 👯 I’m looking to collaborate on ... <b> Any project building a website, to gain some experience and start networking.</b>
 - 🤔 I’m looking for help with ... <b>All things JavaScript. Any tips would be appreciated. </b>
-- 💬 Ask me about ... <b>My tiny business where I freelance as a Graphic Designer and sell handmade products via Etsy [@orincywhytedesigns](https://www.instagram.com/orincywhytedesigns/) </b>
+- 💬 Ask me about ... <b>My tiny business where I freelance as a Graphic Designer and sell handmade products via Etsy (https://www.orincywhyte.com/links/) </b>
 
  
 - 😄 Pronouns: ... <b>She/Her</b>

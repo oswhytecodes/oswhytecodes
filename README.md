@@ -9,7 +9,7 @@ Frontend Dev + Graphic Designer 👩🏾‍💻
 
 Currently learning Front End Engineering via CodeCademy (83%). 
 
-My dream tech job is one where I can focus on code+design in ReactJs and Tailwind.
+I am open to work, and searching for my first tech role as a Frontend dev. My dream job is one where I can focus on code+design in React and Tailwind.
 
 I am obsessed with building things, which is why I enjoy programming and design
 
@@ -38,7 +38,7 @@ I am obsessed with building things, which is why I enjoy programming and design
 
 
 - 🔭 I’m currently working on ... <b>Improving my JavaScript skills, building projects, getting better at React </b>
-- 🌱 I’m currently learning ... <b>React/Redux</b>
+- 🌱 I’m currently learning ... <b>Data Structures and Algorithms </b>
 - 👯 I’m looking to collaborate on ... <b> Any project building a website, to gain some experience and start networking.</b>
 - 🤔 I’m looking for help with ... <b>All things JavaScript. Any tips would be appreciated. </b>
 - 💬 Ask me about ... <b>My tiny business where I freelance as a Graphic Designer and sell handmade products via Etsy

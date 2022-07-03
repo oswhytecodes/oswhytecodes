@@ -29,7 +29,7 @@ I am obsessed with building things, which is why I enjoy programming and design
 
   <a href="https://www.github.com/oswhyteknits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/orincywhyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Oswhyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a><br /><br />
 <b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/oswhyteknits/rickandmorty-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oswhyteknits&repo=rickandmorty-react&title_color=000000&text_color=000000&icon_color=facc15&bg_color=A9D3E9&hide_border=true&locale=en" /></a></div><br /><br />
+<div width="100%" align="center"><a href="https://github.com/oswhyteknits/rickandmorty-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oswhytecodess&repo=rickandmorty-react&title_color=000000&text_color=000000&icon_color=facc15&bg_color=A9D3E9&hide_border=true&locale=en" /></a></div><br /><br />
 <br /><br />
 <br />
 <br />

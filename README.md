@@ -7,7 +7,7 @@ Hi 👋 My name is Orincy Whyte
 Frontend Dev + Graphic Designer 👩🏾‍💻
 -------------------------------------
 
-Currently learning Front End Engineering via CodeCademy (71%). 
+Currently learning Front End Engineering via CodeCademy (83%). 
 
 My dream tech job is one where I can focus on code+design in ReactJs and Tailwind.
 

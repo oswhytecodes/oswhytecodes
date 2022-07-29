@@ -7,7 +7,7 @@ Hi 👋 My name is Orincy Whyte
 Frontend Dev + Graphic Designer 👩🏾‍💻
 -------------------------------------
 
-Currently learning Front End Engineering via CodeCademy (83%). 
+Currently learning Front End Engineering via CodeCademy (98%). 
 
 I am open to work, and searching for my first tech role as a Frontend dev. My dream job is one where I can focus on code+design in React and Tailwind.
 
@@ -15,6 +15,7 @@ I am obsessed with building things, which is why I enjoy programming and design
 
 * 🌍  I'm based in Fl + NY
 * ✉️  You can contact me at [orincywhyte@gmail.com](mailto:orincywhyte@gmail.com)
+* 👩🏽‍💻  More about me [All the links](https://www.orincywhyte.com/links)
 
 ### Skills<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>

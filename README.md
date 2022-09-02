@@ -1,7 +1,7 @@
 ![Image 8-18-22 at 10 49 AM 2](https://user-images.githubusercontent.com/92553207/188079237-fb69ea85-b914-4333-94f5-a6123f30d0d5.jpg)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Orincy Whyte
+Hi, My name is Orincy Whyte
 ====================================================================================================================================
 
 Frontend Developer | Graphic Designer

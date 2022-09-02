@@ -1,5 +1,4 @@
-
-![reg card-100](https://user-images.githubusercontent.com/92553207/188077370-27a6c7e2-3ccc-435d-aa7d-b6383b55adaa.JPG)
+![Image 8-18-22 at 10 49 AM](https://user-images.githubusercontent.com/92553207/188078543-56642f9e-416e-4d11-9391-7dc0bf7e61b6.jpg)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Orincy Whyte

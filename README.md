@@ -63,19 +63,3 @@ I am a designer who is obsessed with building things. I love solving problems wi
 <br />
 <br />
 <a align="left" href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-- 🔭 I’m currently working on ... <b>Improving my JavaScript skills, building projects, getting better at React </b>
-- 🌱 I’m currently learning ... <b>Data Structures and Algorithms </b>
-- 👯 I’m looking to collaborate on ... <b> Any project building a website, to gain some experience and start networking.</b>
-- 🤔 I’m looking for help with ... <b>All things JavaScript. Any tips would be appreciated. </b>
-- 💬 Ask me about ... <b>My tiny business where I freelance as a Graphic Designer and sell handmade products via Etsy
-
-  [Let's work together](https://www.orincywhyte.com/links/) </b>
-
- 
-- 😄 Pronouns: ... <b>She/Her</b>
-- ⚡ Fun fact: ... <br>
-      <b>1. I'm a good dancer. </b> </br>
-      <b>2. I went to a boarding school between ages 12-17 </b><br>
-      <b>3. I love french fries and pizza. </b>

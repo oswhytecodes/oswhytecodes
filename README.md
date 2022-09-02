@@ -1,4 +1,5 @@
-![reg card-100](https://user-images.githubusercontent.com/92553207/188076552-464d63a5-eb27-428f-9d9c-c4acd9c037e3.JPG)
+
+![reg card-100](https://user-images.githubusercontent.com/92553207/188077370-27a6c7e2-3ccc-435d-aa7d-b6383b55adaa.JPG)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Orincy Whyte
@@ -7,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | Graphic Designer
 -------------------------------------
 
-I am a designer who is obsessed with building things. I love solving problems with design and code. I love CSS, specifically Tailwind... when combined with React this duo is a designer/programmer's dream come true :)
+I am a designer who is obsessed with building things. I love solving problems with design and code. I love CSS, specifically Tailwind... when combined with React this duo is a designer/programmer's dream come true :) I enjoy working and networking with other devs. I. Love. Javascript. 
 
 * 🌍  I'm based in FL/NYC
 * 🖥️  See my portfolio at [Portfolio](http://orincywhyte-portfolio.netlify.app/)
@@ -51,7 +52,9 @@ I am a designer who is obsessed with building things. I love solving problems wi
   <a href="https://www.twitch.tv/oswhytecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p><br /><br /><b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/oswhytecodes/weather-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oswhytecodes&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
-<br /><br /><br /><br /><br /><br />
-### Support Me
 <br /><br /><br /><br />
+
+
+### Support Me
+<br /><br />
 <a href="https://www.buymeacoffee.com/oswhytecodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

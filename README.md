@@ -1,5 +1,5 @@
-![Image 8-18-22 at 10 49 AM](https://user-images.githubusercontent.com/92553207/188078660-39b66f02-7e9e-45a0-b52e-023241f3aaec.jpg)
 
+![Image 8-18-22 at 10 49 AM](https://user-images.githubusercontent.com/92553207/188078822-263120a8-84d4-408b-a9fb-560a07783084.jpg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Orincy Whyte
 ====================================================================================================================================

@@ -7,7 +7,7 @@ Hi, My name is Orincy
 Frontend Developer | Graphic Designer
 -------------------------------------
 
-I am a designer who is obsessed with building things. I love solving problems with design and code. I love CSS, specifically Tailwind... when combined with React this duo is a designer/programmer's dream come true :) I enjoy working and networking with other devs. I. Love. Javascript. 
+I am a developer and designer who is obsessed with building things. I love solving problems with design and code. I love CSS, specifically Tailwind... when combined with React this duo is a designer/programmer's dream come true :) I enjoy working and networking with other devs. I. Love. Javascript. 
 
 * 🌍  I'm based in FL/NYC
 * 🖥️  See my portfolio at [Portfolio](http://orincywhyte-portfolio.netlify.app/)

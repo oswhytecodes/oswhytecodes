@@ -13,7 +13,8 @@ Web Developer and Graphic Designer, designing and building responsive web applic
 * 🌍  I'm based in FL/NYC
 * 🖥️  See my portfolio at [Portfolio](http://orincywhyte-portfolio.netlify.app/)
 * ✉️  You can contact me at [orincywhyte@gmail.com](mailto:orincywhyte@gmail.com)
-* 🚀  I'm currently working on [Rain or Shine - Weather App](http://oswhytecodes-weatherapp.netlify.app/)
+* 🚀  I'm currently working on [Share Your Thoughts](https://github.com/oswhytecodes/shareyourthoughts_ts-nextjs)
+* 🚀  I just completed [Rain or Shine - Weather App](http://oswhytecodes-weatherapp.netlify.app/)
 * 🧠  I'm learning NEXT JS
 * 🤝  I'm open to collaborating on React/Tailwind projects
 * ⚡  I love pizza and gyoza dumplings and short rib tacos. But nothing beats my love for cupcakes :D

@@ -1,5 +1,6 @@
 
-![OFFICIAL-BC-2](https://user-images.githubusercontent.com/92553207/204335637-1e6df23e-3ccf-4365-9cf8-3f812da4246e.jpg)
+[orincy whyte designs header](https://github.com/oswhytecodes/oswhytecodes/assets/92553207/a1239095-c725-485b-a828-7eac94046f0b)
+
 
 
 Hi, My name is Orincy

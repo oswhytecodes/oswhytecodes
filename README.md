@@ -6,7 +6,7 @@
 Hi, My name is Orincy
 ====================================================================================================================================
 
-Graphic Designer (Frontend Engineer)
+Graphic Designer (Frontend Developer)
 -------------------------------------
 
 Orincy Whyte is a Freelance Graphic Designer specializing in logo and web design services.  I enjoy designing and building responsive web applications in React/NextJS. I love solving problems with design and code. I love CSS + Tailwind. I enjoy working and networking with other devs and always enjoy collaborating on projects.

@@ -1,5 +1,6 @@
 
-![orincy whyte desigsn header](https://github.com/oswhytecodes/oswhytecodes/assets/92553207/ec58129a-ce8d-4dab-b90d-07fa64d6da6c)
+![orincy whyte desigsn header](![orincy whyte designs - graphic designer](https://github.com/oswhytecodes/oswhytecodes/assets/92553207/32349ccb-9154-4104-89d1-228122bbec6e)
+)
 
 
 
